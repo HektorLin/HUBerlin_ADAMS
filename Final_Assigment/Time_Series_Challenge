@@ -1,0 +1,14 @@
+The crypto realm had quite some ups and downs. Biggest guys on the block experienced several forks: Bitcoin (BTC) 'parented' BitcoinGold (BTG) and BitcoinCash (BCH); Ethereum (ETH) has to co-exist with EthereumClassic (ETC), EthereumFog (ETF), EthereumZero (ETZ) and EtherInc (ETI). How strong is a connection between the initial and the forked crypto? Can it be used for trading? There are many opinions, you can form your own.
+
+You are provided with time series of these 8 cryptos (price, volume and market capitalization) from April 2013 to nowadays. Your goal is to make a two-weeks ahead prediction for the trading volume of the above-mentioned 8 cryptos. For that purpose you can use any sort of RNN and possibly other NN architectures (if needed). Make sure you provide a classic statistical forecasting model (like ARIMA) as a benchmark.
+
+IMPORTANT:
+
+The predictions are made for the two weeks before the launch of this competitions, so you surely could try to look around for the numbers. But firstly - different resources might provide you with different numbers, secondly - it would probably be visible if you get too good all of a sudden and lastly - we do believe in your integrity.
+Keep in mind that some cryptos are older, some are younger, so the length of corresponding time series is different.
+Be attentive to the specific submission format - you can check it in the sample submission.
+You can not use the data outside of what was provided.
+In order to qualify for evaluation, enter a one-person team and change the name to your matriculation number.
+Prediction evaluation for the final project in ADAMS SS19 at Humboldt-University.
+
+Kaggle: https://www.kaggle.com/c/adams-time-series-ss19/overview
